@@ -1,4 +1,4 @@
-package com.subham.springboot_scheduler.component;
+package com.subham.springboot_scheduler.scheduler_component;
 
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
